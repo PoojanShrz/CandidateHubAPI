@@ -43,10 +43,10 @@ Add more detailed descriptions and examples in the Swagger documentation for bet
 
 ## Total Time Spent
 
-The total time spent on this task is approximately **6 hours**, broken down as follows:
+The total time spent on this task is approximately **11 hours**, broken down as follows:
 
 - Project setup and configuration: 1 hour
-- Implementing CRUD operations in `CandidatesController`: 2 hours
-- Database setup and migrations: 1 hour
-- Testing and debugging: 1 hour
+- Implementing CRUD operations in `CandidatesController`: 3 hours
+- Database setup and migrations: 4 hour
+- Testing and debugging: 2 hour
 - Writing documentation and improvement suggestions: 1 hour
